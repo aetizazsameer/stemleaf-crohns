@@ -1,6 +1,6 @@
 # stemleaf-crohns
 Created as part of the STEM & Leaf Corps Computational Biology Program Fall 2020. All rights to this work retained.\
-Featured as a Special Topics Program example project: https://web.archive.org/web/20210420192615/https://www.stemleafcorps.com/special-topics-program
+Featured as a Special Topics Program example project: https://web.archive.org/web/20210420192615/https://www.stemleafcorps.com/special-topics-program under "What are some examples of the previous projects?"
 
 This Python program simulates Crohn's disease, a chronic bowel disease marked by inflammation of the gastrointestinal tract, taking risk factors into account.
 
